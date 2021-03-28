@@ -2,5 +2,5 @@
 <info author="MrZsemle" name="Discord webhook messages" />
 <script src="webhookS.lua"/>
 
-<export function="sendDiscordMessage" type="server" />
+<export function="sendDiscordMessage" type="shared" />
 </meta>
